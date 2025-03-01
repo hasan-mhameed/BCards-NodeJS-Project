@@ -1,0 +1,20 @@
+[
+  {
+    "username": "john Doe",
+    "email": "john@gmail.com",
+    "password": "123456",
+    "authLevel": 3
+  },
+  {
+    "username": "Henadi Abu Hamdan",
+    "email": "henadi@gmail.com",
+    "password": "123456",
+    "authLevel": 2
+  },
+  {
+    "username": "Bob Smith",
+    "email": "bob@gmail.com",
+    "password": "123456",
+    "authLevel": 1
+  }
+]
